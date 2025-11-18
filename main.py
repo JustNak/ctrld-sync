@@ -53,6 +53,8 @@ FOLDER_URLS = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-vivo-folder.json",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-xiaomi-folder.json",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-tiktok-folder.json",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/badware-hoster-folder.json",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-amazon-folder.json",
 ]
 
 BATCH_SIZE = 500
